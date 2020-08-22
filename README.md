@@ -37,9 +37,9 @@ brew cask install visual-studio-code
 brew cask install github
 ```
 
-正运行一下VSCode和GitHub Desktop，看看是不是正常。然后我们来[试试Python HelloWorld]()
+正运行一下VSCode和GitHub Desktop，看看是不是正常。然后我们来试试Python HelloWorld：
 
-
+[![第一次运行Python](https://img.youtube.com/vi/Hb9YxknWvhY/0.jpg)](https://www.youtube.com/watch?v=Hb9YxknWvhY)
 
 ## 在GitHub上Fork一个项目
 
