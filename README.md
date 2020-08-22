@@ -31,5 +31,17 @@ brew install python
 brew cask install visual-studio-code
 ```
 
+### 安装GitHub Desktop
+
+```
+brew cask install github
+```
+
+正运行一下VSCode和GitHub Desktop，看看是不是正常。然后我们来[试试Python HelloWorld]()
+
+
+
+## 在GitHub上Fork一个项目
+
 ### 书写你的第一个HellWorld
 
