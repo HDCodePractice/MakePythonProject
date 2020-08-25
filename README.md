@@ -43,5 +43,5 @@ brew cask install github
 
 ## 在GitHub上Fork一个项目
 
-### 书写你的第一个HellWorld
+### 书写你的第一个HelloWorld
 
