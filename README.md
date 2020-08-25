@@ -11,7 +11,7 @@
 * 准备第一个Python Telegram Bot项目
 * 书写每一个Hello Telegram Bot
 
-## 给你的MacOS安装Python和VSCode
+## 第一课 给你的MacOS安装Python和VSCode
 
 ### 安装brew
 
