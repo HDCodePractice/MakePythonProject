@@ -25,7 +25,17 @@
 pip3 install python-telegram-bot --upgrade
 ```
 
-### 建
+### 第一个Telegram Bot
+
+#### 创建Bot
+
+https://core.telegram.org/bots#creating-a-new-bot
+
+#### 运行Bot
+
+https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-%E2%80%93-Your-first-Bot
+
+
 
 
 ## 资源
