@@ -15,7 +15,25 @@
 
 [给你的MacOS安装Python和VSCode](https://github.com/HDCodePractice/MakePythonProject/blob/master/%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E5%AE%89%E8%A3%85Python%E5%92%8CVSCode.md)
 
-## 在GitHub上Fork一个项目
+## 第二课
 
-### 书写你的第一个HelloWorld
+### 安装python-telegram-bot
 
+我们可以从[python-telegram-bot项目的说明里](https://github.com/python-telegram-bot/python-telegram-bot#introduction)看到如何安装它，因为我们使用的是Python3，所以要这样安装：
+
+```
+pip3 install python-telegram-bot --upgrade
+```
+
+### 建
+
+
+## 资源
+
+[Telegram Bot介绍](https://core.telegram.org/bots)
+
+[Telegram API](https://core.telegram.org/bots/api/#available-methods)
+
+[python-telegram-bot API](https://python-telegram-bot.readthedocs.io/en/stable/)
+
+[python-telegram-bot Github](https://github.com/python-telegram-bot/python-telegram-bot)
