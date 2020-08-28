@@ -18,13 +18,20 @@ brew install python
 brew cask install visual-studio-code
 ```
 
+安装后运行，完成以下工作：
+
+.在home目录下建立一个`work`的目录
+.运行 `code work`
+.新建一个 `hello.py` 的文件并保存
+.安装python相关的两个扩展
+
 ### 安装GitHub Desktop
 
 ```
 brew cask install github
 ```
 
-正运行一下VSCode和GitHub Desktop，看看是不是正常。
+运行Github Desktop并通过网站认证登录。
 
 ### Python Hello World
 
