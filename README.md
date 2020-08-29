@@ -21,11 +21,17 @@
 
 #### 在GitHub上为自己的第一个机器人建立一个项目
 
+[![在github上创建一个新项目](https://img.youtube.com/vi/SYY7266Twoo/0.jpg)](https://www.youtube.com/watch?v=SYY7266Twoo)
+
 #### 将项目Clone到你的计算机上
 
-#### 在你的VSCode里修改、提交、Push到Github
+[![将项目Clone到你的计算机上](https://img.youtube.com/vi/lTR81O5r6os/0.jpg)](https://www.youtube.com/watch?v=lTR81O5r6os)
 
-#### 从Github上Pull变化到本地
+#### 在你的VSCode里修改、提交
+
+[![将项目Clone到你的计算机上](https://img.youtube.com/vi/UdbWx00EhWg/0.jpg)](https://www.youtube.com/watch?v=UdbWx00EhWg)
+
+#### 与GitHub进行Push、Pull
 
 
 
