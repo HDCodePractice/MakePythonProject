@@ -33,7 +33,7 @@
 
 #### 与GitHub进行Push、Pull
 
-
+[![使用GitHub Desktop进行Push、Pull](https://img.youtube.com/vi/GHJ2iUD8Kvw/0.jpg)](https://www.youtube.com/watch?v=GHJ2iUD8Kvw)
 
 ### 你的第一个Telegram Bot
 
