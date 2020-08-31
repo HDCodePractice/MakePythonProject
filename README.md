@@ -15,43 +15,10 @@
 
 [给你的MacOS安装Python和VSCode](https://github.com/HDCodePractice/MakePythonProject/blob/master/%E7%AC%AC%E4%B8%80%E8%AF%BE%20%E5%AE%89%E8%A3%85Python%E5%92%8CVSCode.md)
 
-## 第二课 使用GitHub和建立第一个机器人
+## 第二课 
 
-### GitHub入门
+[使用GitHub和建立第一个机器人](https://github.com/HDCodePractice/MakePythonProject/blob/master/%E7%AC%AC%E4%BA%8C%E8%AF%BE%20%E4%BD%BF%E7%94%A8GitHub%E5%92%8C%E5%BB%BA%E7%AB%8B%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA.md)
 
-#### 在GitHub上为自己的第一个机器人建立一个项目
-
-[![在github上创建一个新项目](https://img.youtube.com/vi/SYY7266Twoo/0.jpg)](https://www.youtube.com/watch?v=SYY7266Twoo)
-
-#### 将项目Clone到你的计算机上
-
-[![将项目Clone到你的计算机上](https://img.youtube.com/vi/lTR81O5r6os/0.jpg)](https://www.youtube.com/watch?v=lTR81O5r6os)
-
-#### 在你的VSCode里修改、提交
-
-[![将项目Clone到你的计算机上](https://img.youtube.com/vi/UdbWx00EhWg/0.jpg)](https://www.youtube.com/watch?v=UdbWx00EhWg)
-
-#### 与GitHub进行Push、Pull
-
-[![使用GitHub Desktop进行Push、Pull](https://img.youtube.com/vi/GHJ2iUD8Kvw/0.jpg)](https://www.youtube.com/watch?v=GHJ2iUD8Kvw)
-
-### 你的第一个Telegram Bot
-
-#### 安装python-telegram-bot
-
-我们可以从[python-telegram-bot项目的说明里](https://github.com/python-telegram-bot/python-telegram-bot#introduction)看到如何安装它，因为我们使用的是Python3，所以要这样安装：
-
-```
-pip3 install python-telegram-bot --upgrade
-```
-
-#### 创建Bot
-
-https://core.telegram.org/bots#creating-a-new-bot
-
-#### 运行Bot
-
-https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-%E2%80%93-Your-first-Bot
 
 #### 注意
 
