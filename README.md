@@ -47,7 +47,7 @@ TOKEN=read_file_as_str('BOT_TOKEN')
 
 #### 认识一下update
 
-* [telegram.ext.updater](https://python-telegram-bot.readthedocs.io/en/stable/telegram.ext.updater.html)
+* [telegram.update](https://python-telegram-bot.readthedocs.io/en/stable/telegram.update.html)
 * [telegram Update](https://core.telegram.org/bots/api/#update)
 
 #### 简单的时运机器人(Issue)
