@@ -19,7 +19,7 @@
 
 [使用GitHub和建立第一个机器人](https://github.com/HDCodePractice/MakePythonProject/blob/master/%E7%AC%AC%E4%BA%8C%E8%AF%BE%20%E4%BD%BF%E7%94%A8GitHub%E5%92%8C%E5%BB%BA%E7%AB%8B%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA.md)
 
-## 第三课 时运机器人
+## 第三课 简单的时运机器人
 
 #### 如何从文件里读取Token
 
@@ -49,6 +49,20 @@ TOKEN=read_file_as_str('BOT_TOKEN')
 
 * [telegram.update](https://python-telegram-bot.readthedocs.io/en/stable/telegram.update.html)
 * [telegram Update](https://core.telegram.org/bots/api/#update)
+
+让我们在echo bot里加一点调试信息：
+
+```
+def echo(update, context):
+    print(update)
+    print(update.message.from_user.first_name)
+    msg = "%s 说了 %s ，你的uid是%s，你说的语言是%s"%(
+        update.message.from_user.first_name,
+        update.message.text,update.message.from_user.id,
+        update.message.from_user.language_code)
+    context.bot.send_message(chat_id=update.effective_chat.id, text=msg)
+```
+
 
 #### 简单的时运机器人(Issue)
 
