@@ -118,6 +118,14 @@ print(total)
 * 最后再加上一句"作者 xxxx"
 * 将这个功能放入另一个文件里
 
+
+#### 天气预报(Issue)
+
+* 给自己的机器安装[Yahoo Weather](https://pypi.org/project/yahoo-weather/)
+* 给机器人增加查询自己的所在city的天气预报的功能
+* 支持 /weather 命令
+* 要使用单独的文件
+
 ## 资源
 
 [Telegram Bot介绍](https://core.telegram.org/bots)
