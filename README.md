@@ -24,6 +24,8 @@
 
 让我们来写一个查询天气预报的命令
 
+另外，让我们来看看[info命令的代码](https://github.com/HDCodePractice/CodePracticeBot/blob/master/cmdproc/infocmd.py)了解一下如何书写自己的Bot。将来大家也需要用相同的方法，将自己的代码PR到CodePraticeBot上来。
+
 #### 天气预报(Issue)
 
 * 给自己的机器安装[Yahoo Weather](https://pypi.org/project/yahoo-weather/)
